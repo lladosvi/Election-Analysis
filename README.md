@@ -17,7 +17,7 @@ The total count of votes is 369,711. Some of the code used to create this output
   
 ![image](https://user-images.githubusercontent.com/96096924/148844559-3a7344a8-d4b4-4ecd-a0b9-b76e72546dd9.png)
 
-h) Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct. Which county had the largest number of votes?
+2) Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct. Which county had the largest number of votes?
 
 The breakdown by county are:
 
