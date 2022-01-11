@@ -30,8 +30,10 @@ The county with the largest number of votes is Denver, below is some of the code
 ![image](https://user-images.githubusercontent.com/96096924/148845890-8d4ddd46-bc10-43b3-8334-adcb7fa40e26.png)
 
   *Instructions to print in screen and in file:
-  
- ![image](https://user-images.githubusercontent.com/96096924/148846168-d301af7c-40ed-44f3-be16-b4c4872faa0d.png)
+ 
+![image](https://user-images.githubusercontent.com/96096924/148861760-75e79ea2-531a-42d0-be35-9fc0feb360c0.png)
+ 
+![image](https://user-images.githubusercontent.com/96096924/148846168-d301af7c-40ed-44f3-be16-b4c4872faa0d.png)
 
 3) Provide a breakdown of the number of votes and the percentage of the total votes each candidate received. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
